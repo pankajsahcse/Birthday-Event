@@ -1,4 +1,4 @@
-<h1> Visit the site from here.</h1>
+<h2> Visit the site from here.</h2>
 <br>
 <a href="https://pankajsahcse.github.io/Birthday-Event/" > Click </a>
 
